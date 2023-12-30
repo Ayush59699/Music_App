@@ -1,0 +1,10 @@
+Flask
+Flask-Login
+Flask-Security
+Flask-SQLAlchemy
+pillow
+flask-restful
+email_validator
+numpy
+werkzeug
+bcrypt
