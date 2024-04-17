@@ -14,3 +14,5 @@
 <p>Song Management</p>
 <p>Playlist Management</p>
 <p>Search functionality for songs/playlist</p>
+
+<h1> Open for suggestions</h1>
